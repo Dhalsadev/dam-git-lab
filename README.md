@@ -1,5 +1,9 @@
 # DAM Git Lab
 
-## Entorno de desarrollo
+## Descripción
 
-### Sistema operativo (Linux)
+Repositorio de prácticas de Git para Desarrollo de Aplicaciones Multiplataforma.
+
+## Autor
+
+Dhalia González Sacramento
